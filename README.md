@@ -18,7 +18,8 @@
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
 
-<!-- PROJECT LOGO -->
+![image](https://github.com/Shadrackssien/YuppyCart/assets/117119351/0c863c99-b054-42a7-9577-0e09fd37a2f3)
+
 <br />
 <div align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
