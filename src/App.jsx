@@ -3,6 +3,8 @@ import Hero from "./components/Hero/Hero"
 import Navbar from "./components/Navbar/Navbar"
 import Products from "./components/Products/Products"
 import TopProducts from "./components/Products/TopProducts"
+import Subscribe from "./components/Subscribe/Subscribe"
+import Testimonial from "./components/Testimonial/Testimonial"
 
 function App() {
   return (
@@ -12,6 +14,8 @@ function App() {
       <Products />
       <TopProducts />
       <Banner />
+      <Subscribe />
+      <Testimonial />
     </div>
   )
 }
