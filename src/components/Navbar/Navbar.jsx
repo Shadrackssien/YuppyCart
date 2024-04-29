@@ -102,7 +102,8 @@ function Navbar() {
                 {/* Create Account */}
                 <button
                 onClick={() => alert("Kindly create an account")}
-                className="bg-gradient-to-r from-primary to-secondary transition-all
+                className="bg-gradient-to-r from-primary to-secondary transition-all 
+                hover:scale-105
                 duration-200 text-white py-1 px-4 rounded-full
                 flex items-center gap-3 group"
                 >
@@ -119,7 +120,7 @@ function Navbar() {
                 <button
                 onClick={() => alert("Ordering not available yet")}
                 className="bg-gradient-to-r from-primary to-secondary transition-all
-                duration-200 text-white py-1 px-4 rounded-full
+                hover:scale-105 duration-200 text-white py-1 px-4 rounded-full
                 flex items-center gap-3 group"
                 >
                     <span
