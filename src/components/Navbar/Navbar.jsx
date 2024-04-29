@@ -2,7 +2,6 @@ import { FaCaretDown } from "react-icons/fa";
 import { AiOutlineUser } from "react-icons/ai"; 
 import { AiOutlineShoppingCart } from "react-icons/ai"; 
 import { AiOutlineSearch } from "react-icons/ai"; 
-import React from 'react'
 import Logo from '../../assets/logo.png'
 import DarkMode from "./DarkMode";
 
