@@ -18,12 +18,10 @@
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
 
-![image](https://github.com/Shadrackssien/YuppyCart/assets/117119351/0c863c99-b054-42a7-9577-0e09fd37a2f3)
-
 <br />
 <div align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="[images/logo.png](https://github.com/Shadrackssien/YuppyCart/assets/117119351/0c863c99-b054-42a7-9577-0e09fd37a2f3)" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Best-README-Template</h3>
