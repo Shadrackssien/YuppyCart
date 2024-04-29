@@ -1,4 +1,5 @@
 import Banner from "./components/Banner/Banner"
+import Footer from "./components/Footer/Footer"
 import Hero from "./components/Hero/Hero"
 import Navbar from "./components/Navbar/Navbar"
 import Products from "./components/Products/Products"
@@ -8,7 +9,7 @@ import Testimonial from "./components/Testimonial/Testimonial"
 
 function App() {
   return (
-    <div>
+    <div className="bg-white dark:bg-gray-900 dark:text-white duration-200">
       <Navbar /> 
       <Hero />
       <Products />
@@ -16,6 +17,7 @@ function App() {
       <Banner />
       <Subscribe />
       <Testimonial />
+      <Footer />
     </div>
   )
 }
