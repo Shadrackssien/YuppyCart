@@ -9,27 +9,27 @@ const Menu = [
     {
       id: 1,
       name: "Home",
-      link: "/#",
+      link: "/",
     },
     {
       id: 2,
-      name: "Top Rated",
-      link: "/#services",
+      name: "All Products",
+      link: "/Allproducts",
     },
     {
       id: 3,
-      name: "Kids Wear",
-      link: "/#",
+      name: "Men",
+      link: "/men",
     },
     {
-      id: 3,
-      name: "Mens Wear",
-      link: "/#",
+      id: 4,
+      name: "women",
+      link: "/Women",
     },
     {
-      id: 3,
-      name: "Electronics",
-      link: "/#",
+      id: 5,
+      name: "kids",
+      link: "/Kids",
     },
   ];
   
@@ -52,7 +52,8 @@ const Menu = [
   ];
   
 
-function Navbar() {
+// eslint-disable-next-line react/prop-types
+function Navbar({handleOrderPopup}) {
   return (
     <div className='shadow-md bg-white 
     dark:bg-gray-900 dark:text-white duration-200
@@ -62,7 +63,7 @@ function Navbar() {
             <div className='container flex justify-between
                 items-center'>
                 <div>      
-                    <a href="#"
+                    <a href="/"
                     className='font-bold text-2xl sm:text-3xl flex gap-2'>
                         <img src={Logo} alt="logo" 
                         className='w-12 py-1' />
@@ -85,7 +86,7 @@ function Navbar() {
                 </div>
                 {/* Order Button */}
                 <button
-                onClick={() => alert("Ordering not available yet")}
+                onClick={handleOrderPopup}
                 className="bg-gradient-to-r from-primary to-secondary transition-all
                 duration-200 text-white py-1 px-4 rounded-full
                 flex items-center gap-3 group"
@@ -149,7 +150,7 @@ function Navbar() {
                 href={data.link}
                 className="inline-block px-4 hover:text-primary duration-200"
               >
-                {data.name}
+                <h2>{data.name}</h2>
               </a>
             </li>
           ))}
