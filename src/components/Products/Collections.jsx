@@ -9,22 +9,44 @@ const ProductsData = [
     img: Img1,
     title: "Casual Wear",
     description:
-      "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "Fashion Men's Hawaiian Ink Print Short Sleeve Beach Button Down T-Shirt Casual Tops",
   },
   {
     id: 2,
     img: Img2,
     title: "Printed shirt",
     description:
-      "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "Fashion Men's Hawaiian Ink Print Short Sleeve Beach Button Down T-Shirt Casual Tops",
   },
   {
     id: 3,
     img: Img3,
     title: "Women shirt",
     description:
+      "Fashion Men's Hawaiian Ink Print Short Sleeve Beach Button Down T-Shirt Casual Tops",
+  },
+  {
+    id: 4,
+    img: Img2,
+    title: "Printed shirt",
+    description:
+      "Fashion Men's Hawaiian Ink Print Short Sleeve Beach Button Down T-Shirt Casual Tops",
+  },
+  {
+    id: 5,
+    img: Img3,
+    title: "Women shirt",
+    description:
       "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
   },
+  {
+    id: 6,
+    img: Img1,
+    title: "Casual Wear",
+    description:
+      "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+  },
+
 ];
 const Collections = ({ handleOrderPopup, title }) => {
   return (
@@ -32,13 +54,9 @@ const Collections = ({ handleOrderPopup, title }) => {
       <div className="container">
         {/* Header section */}
         <div className="text-center mb-10 max-w-[600px] mx-auto">
-          <h1 data-aos="fade-up" className="text-3xl font-bold">
+          <h1 className="text-3xl font-bold">
             {title}
           </h1>
-          <p data-aos="fade-up" className="text-xs text-gray-400">
-            Lorem ipsum dolor sit amet consectetur, adipisicing elit. Sit
-            asperiores modi Sit asperiores modi
-          </p>
         </div>
         {/* Body section */}
         <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 
@@ -46,7 +64,6 @@ const Collections = ({ handleOrderPopup, title }) => {
           {ProductsData.map((data, index) => (
             <div key={index}>
                 <div
-              data-aos="zoom-in"
               className="rounded-2xl bg-white dark:bg-gray-800 hover:bg-black/80 
               dark:hover:bg-primary hover:text-white relative shadow-xl duration-300 
               group max-w-[300px]"

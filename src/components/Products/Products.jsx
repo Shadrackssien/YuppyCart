@@ -1,7 +1,7 @@
 import Img1 from "../../assets/women/women.png";
-import Img2 from "../../assets/women/women2.jpg";
+import Img2 from "../../assets/women/still-life-rendering-jackets-display.jpg";
 import Img3 from "../../assets/women/women3.jpg";
-import Img4 from "../../assets/women/women4.jpg";
+import Img4 from "../../assets/women/blue-t-shirt.jpg";
 import { FaStar } from "react-icons/fa6";
 
 const ProductsData = [
@@ -53,16 +53,13 @@ const Products = () => {
       <div className="container">
         {/* Header section */}
         <div className="text-center mb-10 max-w-[600px] mx-auto">
-          <p data-aos="fade-up" className="text-sm text-primary">
+          <p className="text-xl text-primary mb-3">
             Top Selling Products for you
           </p>
-          <h1 data-aos="fade-up" className="text-3xl font-bold">
+          <h1 className="text-4xl font-bold">
             Products
           </h1>
-          <p data-aos="fade-up" className="text-xs text-gray-400">
-            Lorem ipsum dolor sit amet consectetur, adipisicing elit. Sit
-            asperiores modi Sit asperiores modi
-          </p>
+          
         </div>
         {/* Body section */}
         <div>
@@ -70,7 +67,7 @@ const Products = () => {
             {/* card section */}
             {ProductsData.map((data) => (
               <div
-                data-aos="fade-up"
+              
                 data-aos-delay={data.aosDelay}
                 key={data.id}
                 className="space-y-3"
@@ -93,10 +90,10 @@ const Products = () => {
           </div>
           {/* view all button */}
           <div className="flex justify-center">
-            <button className="text-center mt-10 cursor-pointer bg-gradient-to-r from-primary to-secondary 
+            <a href="/Allproducts" className="text-center mt-10 cursor-pointer bg-gradient-to-r from-primary to-secondary 
                          hover:scale-105 duration-200 text-white py-2 px-4 mt-3 rounded-full">
               View All
-            </button>
+            </a>
           </div>
         </div>
       </div>

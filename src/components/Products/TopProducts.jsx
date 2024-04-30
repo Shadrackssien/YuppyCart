@@ -9,21 +9,21 @@ const ProductsData = [
     img: Img1,
     title: "Casual Wear",
     description:
-      "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "Fashion Men's Hawaiian Ink Print Short Sleeve Beach Button Down T-Shirt Casual Tops",
   },
   {
     id: 2,
     img: Img2,
     title: "Printed shirt",
     description:
-      "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "Fashion Men's Hawaiian Ink Print Short Sleeve Beach Button Down T-Shirt Casual Tops",
   },
   {
     id: 3,
     img: Img3,
     title: "Women shirt",
     description:
-      "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "Fashion Men's Hawaiian Ink Print Short Sleeve Beach Button Down T-Shirt Casual Tops",
   },
 ];
 const TopProducts = ({ handleOrderPopup }) => {
@@ -32,16 +32,12 @@ const TopProducts = ({ handleOrderPopup }) => {
       <div className="container">
         {/* Header section */}
         <div className="text-center mb-10 max-w-[600px] mx-auto">
-          <p data-aos="fade-up" className="text-sm text-primary">
+          <p className="text-xl mb-3 text-primary">
             Top Rated Products for you
           </p>
-          <h1 data-aos="fade-up" className="text-3xl font-bold">
+          <h1 className="text-4xl font-bold">
             Best Products
           </h1>
-          <p data-aos="fade-up" className="text-xs text-gray-400">
-            Lorem ipsum dolor sit amet consectetur, adipisicing elit. Sit
-            asperiores modi Sit asperiores modi
-          </p>
         </div>
         {/* Body section */}
         <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 
@@ -49,7 +45,6 @@ const TopProducts = ({ handleOrderPopup }) => {
           {ProductsData.map((data, index) => (
             <div key={index}>
                 <div
-              data-aos="zoom-in"
               className="rounded-2xl bg-white dark:bg-gray-800 hover:bg-black/80 
               dark:hover:bg-primary hover:text-white relative shadow-xl duration-300 
               group max-w-[300px]"

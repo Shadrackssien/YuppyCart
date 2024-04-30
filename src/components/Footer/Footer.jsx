@@ -1,16 +1,18 @@
 import footerLogo from "../../assets/logo.png";
 import {
   FaFacebook,
+  FaGithub,
   FaInstagram,
   FaLinkedin,
   FaLocationArrow,
   FaMobileAlt,
+  FaTwitter,
 } from "react-icons/fa";
 
 const FooterLinks = [
   {
     title: "Home",
-    link: "/#",
+    link: "/",
   },
   {
     title: "About",
@@ -28,7 +30,7 @@ const FooterLinks = [
 
 const Footer = () => {
   return (
-    <div className="relative overflow-hidden min-h-[95px] sm:min-h-[150px] 
+    <div className=" w-full relative overflow-hidden min-h-[95px] sm:min-h-[150px] 
     bg-gray-100 flex justify-center items-center dark:bg-gray-950 
     dark:text-white duration-200 ">
       {/* background pattern */}
@@ -36,7 +38,7 @@ const Footer = () => {
       <div className="h-[700px] w-[600px] bg-primary/40 absolute -top-1/2 right-3/4 rounded-3xl rotate-45 -z[8]"></div>
 
       <div className="container mt-12 z-10">
-        <div data-aos="zoom-in" className="grid md:grid-cols-3 pb-44 pt-5">
+        <div className="grid md:grid-cols-3 pb-11 pt-5">
           {/* company details */}
           <div className="py-8 px-4">
             <h1 className="sm:text-3xl text-xl font-bold sm:text-left text-justify mb-3 flex items-center gap-3">
@@ -44,10 +46,13 @@ const Footer = () => {
               YuppyCart
             </h1>
             <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum in
-              beatae ea recusandae blanditiis veritatis.
+            YuppyCart is committed to offering you a hassle-free and enjoyable 
+            online shopping experience from the convenience of your own home. 
+            We have a vast selection of products, including fashionable clothing 
+            and accessories, to meet your needs. It has never been easier to find 
+            what you're looking for.
             </p>
-            <p className=" text-gray-500">© 2024. All rights reserved.</p>
+            <p className=" text-gray-500 mt-3">© 2024. All rights reserved.</p>
           </div>
 
           {/* Footer Links */}
@@ -74,20 +79,20 @@ const Footer = () => {
 
             <div className="mr-12">
               <div className=" flex items-center gap-3 mt-6">
-                <a href="#">
-                  <FaInstagram className="text-3xl" />
+                <a href="https://twitter.com/shadrackssien" target="_blank">
+                  <FaTwitter className="text-3xl" />
                 </a>
-                <a href="#">
-                  <FaFacebook className="text-3xl" />
+                <a href="https://github.com/Shadrackssien" target="_blank">
+                  <FaGithub className="text-3xl" />
                 </a>
-                <a href="#">
+                <a href="https://www.linkedin.com/in/shadrack-essien/" target="_blank">
                   <FaLinkedin className="text-3xl" />
                 </a>
               </div>
               <div className="mt-6">
                 <div className="flex items-center gap-3">
                   <FaLocationArrow />
-                  <p>Noida, Uttar Pradesh</p>
+                  <p>Tarkwa, Ghana</p>
                 </div>
                 <div className="flex items-center gap-3 mt-3">
                   <FaMobileAlt />

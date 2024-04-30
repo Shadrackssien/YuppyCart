@@ -7,23 +7,23 @@ const ImageList = [
   {
     id: 1,
     img: Image1,
-    title: "Upto 50% off on all Men's Wear",
+    title: "Upto 20% off on all Men's Wear",
     description:
-      "lorem His Life will forever be Changed dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "Looking to save on men's fashion? We can help with 20% discounts. Whether you are looking for a suit, wardrobe essentials, or pyjamas, we offer discounts with leading retailers and brands so you can get the look for less.",
   },
   {
     id: 2,
     img: Image2,
     title: "30% off on all Women's Wear",
     description:
-      "Who's there lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "Take a look at our women's clothing sale, where you can find a great variety of products at discounted prices. You can update your casual wardrobe with our women's t-shirt sale, stay cozy during winter with our women's jacket sale, or find the perfect home comforter from our women's hoodie sale.",
   },
   {
     id: 3,
     img: Image3,
-    title: "70% off on all Products Sale",
+    title: "50% off on all Products Sale",
     description:
-      "consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "YuppyCart provides a range of high-quality men's and women's clothing and accessories that are both ready-to-wear and made-to-measure. We stock clothing and accessories from 20 top luxury brands. Currently, we are offering a 50% discount on all of our products.",
   },
 ];
 

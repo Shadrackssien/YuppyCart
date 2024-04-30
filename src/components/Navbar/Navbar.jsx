@@ -23,12 +23,12 @@ const Menu = [
     },
     {
       id: 4,
-      name: "women",
+      name: "Women",
       link: "/Women",
     },
     {
       id: 5,
-      name: "kids",
+      name: "Kids",
       link: "/Kids",
     },
   ];
@@ -55,13 +55,13 @@ const Menu = [
 // eslint-disable-next-line react/prop-types
 function Navbar({handleOrderPopup}) {
   return (
-    <div className='shadow-md bg-white 
+        <div className='shadow-md bg-white 
     dark:bg-gray-900 dark:text-white duration-200
-    relative z-40'>
+      z-40 sticky top-0 backdrop-blur-lg bprder-neutral-700/80'>
         {/* Upper Navbar */}
         <div className='bg-primary/40 py-3 sm:py-0'>
             <div className='container flex justify-between
-                items-center'>
+                items-center sm:w-full space-x-4 '>
                 <div>      
                     <a href="/"
                     className='font-bold text-2xl sm:text-3xl flex gap-2'>
@@ -101,28 +101,30 @@ function Navbar({handleOrderPopup}) {
                 </button>
 
                 {/* Create Account */}
-                <button
+               <div className="hidden sm:flex my-3 text-center md:flex lg:flex justify-center space-x-12
+               items-center">
+               <a
                 onClick={() => alert("Kindly create an account")}
                 className="bg-gradient-to-r from-primary to-secondary transition-all 
                 hover:scale-105
                 duration-200 text-white py-1 px-4 rounded-full
-                flex items-center gap-3 group"
+                flex items-center gap-3 group cursor-pointer "
                 >
                     <span
                     className="uppercase group-hover:block ">
-                        Create Account
+                        Sign In
                     </span>
                     <AiOutlineUser 
-                    className="text-xl text-white drop-shadow-sm cursor-pointer
+                    className="text-xl text-white sm:hidden md:flex lg:flex drop-shadow-sm cursor-pointer
                     "/>
-                </button>
+                </a>
 
                 {/* Log In */}
-                <button
+                {/*<a
                 onClick={() => alert("Ordering not available yet")}
                 className="bg-gradient-to-r from-primary to-secondary transition-all
                 hover:scale-105 duration-200 text-white py-1 px-4 rounded-full
-                flex items-center gap-3 group"
+                flex items-center gap-3 group sm:hidden"
                 >
                     <span
                     className="uppercase">
@@ -131,7 +133,8 @@ function Navbar({handleOrderPopup}) {
                     <AiOutlineUser 
                     className="text-xl text-white drop-shadow-sm cursor-pointer
                     "/>
-                </button>
+                </a>*/}
+               </div>
 
                 {/* Darkmode Switch */}
                 <div>
@@ -142,7 +145,7 @@ function Navbar({handleOrderPopup}) {
         </div>
 
         {/* Lower Navbar */}
-        <div data-aos="zoom-in" className="flex justify-center">
+        <div className="flex justify-center">
         <ul className="sm:flex hidden items-center gap-4">
           {Menu.map((data) => (
             <li key={data.id}>
@@ -180,6 +183,7 @@ function Navbar({handleOrderPopup}) {
         </ul>
       </div>
     </div>
+    
   )
 }
 
