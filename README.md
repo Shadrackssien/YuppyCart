@@ -20,9 +20,8 @@
 
 <br />
 <div align="center">
-  <a href="https://github.com/shadrackssien">
+
     ![image](https://github.com/Shadrackssien/YuppyCart/assets/github/p1.png)
-  </a>
 
   <h3 align="center">Best-README-Template</h3>
 
