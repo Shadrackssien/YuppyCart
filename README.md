@@ -1,7 +1,7 @@
 <h1 align="center"> YuppyCart </h1> <br>
 <p align="center">
   <a href="https://yuppycart.netlify.app/">
-    <img alt="YuppyCart" title="YuppyCart" src="http://i.imgur.com/VShxJHs.png" width="450">
+    <img alt="YuppyCart" title="YuppyCart" src="https://github.com/Shadrackssien/YuppyCart/blob/main/src/assets/logo.png?raw=true" width="450">
   </a>
 </p>
 
