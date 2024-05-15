@@ -131,5 +131,5 @@ Don't forget to give the project a star! Thanks again!
 [Bootstrap-url]: https://getbootstrap.com
 [JQuery.com]: https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white
 [JQuery-url]: https://jquery.com 
-[Tailwindcss.com]: https://picperf.io/https://laravelnews.s3.amazonaws.com/images/tailwindcss-1633184775.jpg
+[Tailwindcss.com]: https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white
 [Tailwindcss-url]: https://tailwindcss.com
