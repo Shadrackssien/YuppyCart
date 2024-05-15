@@ -41,7 +41,7 @@ YuppyCart is committed to offering you a hassle-free and enjoyable online shoppi
 **Available for both iOS and Android.**
 
 <p align="center">
-  <img src = "http://i.imgur.com/HowF6aM.png" width=350>
+  <img src = "![yuppycartHome](https://github.com/Shadrackssien/YuppyCart/assets/117119351/624885b8-56af-465c-a9cd-113c4d7b1274)" width=350>
 </p>
 
 ## Features
@@ -59,7 +59,7 @@ A few of the things you can do with GitPoint:
 * Easily search for any user or repository
 
 <p align="center">
-  <img src = "http://i.imgur.com/IkSnFRL.png" width=700>![yuppycartHome](https://github.com/Shadrackssien/YuppyCart/assets/117119351/624885b8-56af-465c-a9cd-113c4d7b1274)
+  <img src = "http://i.imgur.com/IkSnFRL.png" width=700>
 
 </p>
 
