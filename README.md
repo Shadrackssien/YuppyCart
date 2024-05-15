@@ -1,5 +1,4 @@
 <a name="readme-top"></a>
-[![Contributors][contributors-shield]][contributors-url]
 <h1 align="center"> YuppyCart </h1> <br>
 <p align="center">
   <a href="https://yuppycart.netlify.app/">
@@ -57,7 +56,7 @@ A few of the things you can do with YuppyCart and we are still implementing new 
 
 ## Built With
 
-* [![React][React.js]][React-url]
+* [![React][React.js]][https://reactjs.org/]
 * [![Tailwindcss][Tailwindcss.com]][Tailwindcss-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
