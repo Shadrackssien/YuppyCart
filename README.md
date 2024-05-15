@@ -26,6 +26,7 @@
 
 - [Introduction](#introduction)
 - [Features](#features)
+- [Built With](#built-with)
 - [Getting Started](#getting-started)
 - [Contributing](#contributing)
 
@@ -38,6 +39,8 @@ YuppyCart is committed to offering you a hassle-free and enjoyable online shoppi
   <img src = "https://github.com/Shadrackssien/YuppyCart/assets/117119351/624885b8-56af-465c-a9cd-113c4d7b1274" width=550>
 </p>
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 ## Features
 
 A few of the things you can do with YuppyCart and we are still implementing new and advance features
@@ -48,6 +51,15 @@ A few of the things you can do with YuppyCart and we are still implementing new 
 * Product gallery
 * Review and merge pull requests
 * Flash Sales
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## Built With
+
+* [![React][React.js]][React-url]
+* [![Tailwindcss][Tailwindcss.com]][Tailwindcss-url]
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- GETTING STARTED -->
 ## Getting Started
