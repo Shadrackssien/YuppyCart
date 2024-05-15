@@ -41,7 +41,7 @@ YuppyCart is committed to offering you a hassle-free and enjoyable online shoppi
 **Available for both iOS and Android.**
 
 <p align="center">
-  <img src = "![yuppycartHome](https://github.com/Shadrackssien/YuppyCart/assets/117119351/624885b8-56af-465c-a9cd-113c4d7b1274)" width=350>
+  <img src = "https://github.com/Shadrackssien/YuppyCart/assets/117119351/624885b8-56af-465c-a9cd-113c4d7b1274" width=350>
 </p>
 
 ## Features
