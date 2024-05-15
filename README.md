@@ -59,20 +59,12 @@ A few of the things you can do with GitPoint:
 * Easily search for any user or repository
 
 <p align="center">
-  <img src = "http://i.imgur.com/IkSnFRL.png" width=700>
-</p>
+  <img src = "http://i.imgur.com/IkSnFRL.png" width=700>![yuppycartHome](https://github.com/Shadrackssien/YuppyCart/assets/117119351/624885b8-56af-465c-a9cd-113c4d7b1274)
 
-<p align="center">
-  <img src = "http://i.imgur.com/0iorG20.png" width=700>
 </p>
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Feedback
 
-Feel free to send us feedback on [Twitter](https://twitter.com/gitpointapp) or [file an issue](https://github.com/gitpoint/git-point/issues/new). Feature requests are always welcome. If you wish to contribute, please take a quick look at the [guidelines](./CONTRIBUTING.md)!
-
-If there's anything you'd like to chat about, please feel free to join our [Gitter chat](https://gitter.im/git-point)!
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- CONTRIBUTING -->
