@@ -38,10 +38,8 @@
 ## Introduction
 YuppyCart is committed to offering you a hassle-free and enjoyable online shopping experience from the convenience of your own home. We have a vast selection of products, including fashionable clothing and accessories, to meet your needs. It has never been easier to find what you're looking for.
 
-**Available for both iOS and Android.**
-
 <p align="center">
-  <img src = "https://github.com/Shadrackssien/YuppyCart/assets/117119351/624885b8-56af-465c-a9cd-113c4d7b1274" width=350>
+  <img src = "https://github.com/Shadrackssien/YuppyCart/assets/117119351/624885b8-56af-465c-a9cd-113c4d7b1274" width=550>
 </p>
 
 ## Features
