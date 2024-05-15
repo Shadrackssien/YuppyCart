@@ -40,17 +40,14 @@ YuppyCart is committed to offering you a hassle-free and enjoyable online shoppi
 
 ## Features
 
-A few of the things you can do with YuppyCart:
+A few of the things you can do with YuppyCart and we are still implementing new and advance features
 
-* View user activity feed
-* Communicate on your issue and pull request conversations
-* Close or lock issues
-* Apply labels and assignees
+* Sign in and Create Acoount Process
+* Search Engine
+* User-friendly product descriptions
+* Product gallery
 * Review and merge pull requests
-* Create new issues
-* Star, watch and fork repositories
-* Control your unread and participating notifications
-* Easily search for any user or repository
+* Flash Sales
 
 <!-- GETTING STARTED -->
 ## Getting Started
@@ -58,7 +55,7 @@ To clone and run this application, you'll need [Git](https://git-scm.com) and [N
 
 1. Clone the repository
    ```sh
-   git clone https://github.com/your_username_/Project-Name.git
+   git clone https://github.com/Shadrackssien/YuppyCart.git
    ```
 2. Go into the repository
    ```sh
