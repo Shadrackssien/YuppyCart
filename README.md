@@ -15,9 +15,9 @@
     <br />
     <a href="https://yuppycart.netlify.app/">View Demo</a>
     ·
-    <a href="/src/bug-report---.md">Report Bug</a>
+    <a href="https://github.com/Shadrackssien/YuppyCart/blob/main/src/bug-report---.md">Report Bug</a>
     ·
-    <a href="/src/feature-request---.md">Request Feature</a>
+    <a href="https://github.com/Shadrackssien/YuppyCart/blob/main/src/feature-request---.md">Request Feature</a>
   </p>
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
