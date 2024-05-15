@@ -57,6 +57,7 @@ A few of the things you can do with YuppyCart and we are still implementing new 
 ## Built With
 
 * [![React][React.js]][React-url]
+* [![Tailwindcss][Tailwindcss.com]][Tailwindcss-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -130,3 +131,5 @@ Don't forget to give the project a star! Thanks again!
 [Bootstrap-url]: https://getbootstrap.com
 [JQuery.com]: https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white
 [JQuery-url]: https://jquery.com 
+[Tailwindcss.com]: https://picperf.io/https://laravelnews.s3.amazonaws.com/images/tailwindcss-1633184775.jpg
+[Tailwindcss-url]: https://tailwindcss.com
