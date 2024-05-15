@@ -7,8 +7,18 @@
 </p>
 
 <p align="center">
-  Shop everywhere you are. Built with Reactjs.
+  
 </p>
+<p align="center">
+    Shop everywhere you are. Built with Reactjs.
+    <br />
+    <br />
+    <a href="https://yuppycart.netlify.app/">View Demo</a>
+    ·
+    <a href="https://github.com/othneildrew/Best-README-Template/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
+    ·
+    <a href="https://github.com/othneildrew/Best-README-Template/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a>
+  </p>
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
@@ -26,15 +36,7 @@
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 ## Introduction
-
-[![Build Status](https://img.shields.io/travis/gitpoint/git-point.svg?style=flat-square)](https://travis-ci.org/gitpoint/git-point)
-[![Coveralls](https://img.shields.io/coveralls/github/gitpoint/git-point.svg?style=flat-square)](https://coveralls.io/github/gitpoint/git-point)
-[![All Contributors](https://img.shields.io/badge/all_contributors-73-orange.svg?style=flat-square)](./CONTRIBUTORS.md)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
-[![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg?style=flat-square)](http://commitizen.github.io/cz-cli/)
-[![Gitter chat](https://img.shields.io/badge/chat-on_gitter-008080.svg?style=flat-square)](https://gitter.im/git-point)
-
-View repository and user information, control your notifications and even manage your issues and pull requests. Built with React Native, YuppyCart is one of the most feature-rich unofficial GitHub clients that is 100% free.
+YuppyCart is committed to offering you a hassle-free and enjoyable online shopping experience from the convenience of your own home. We have a vast selection of products, including fashionable clothing and accessories, to meet your needs. It has never been easier to find what you're looking for.
 
 **Available for both iOS and Android.**
 
