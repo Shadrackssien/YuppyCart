@@ -17,7 +17,7 @@
     ·
     <a href="https://github.com/Shadrackssien/YuppyCart/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
     ·
-    <a href="https://github.com/Shadrackssien/YuppyCart/blob/main/src/feature-request---.md">Request Feature</a>
+    <a href="https://github.com/Shadrackssien/YuppyCart/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a>
   </p>
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
