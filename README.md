@@ -43,9 +43,9 @@ YuppyCart is committed to offering you a hassle-free and enjoyable online shoppi
 
 ## Features
 
-A few of the things you can do with YuppyCart and we are still implementing new and advance features
+A few of the things you can do with YuppyCart and we are still implementing new and advanced features
 
-* Sign in and Create Acoount Process
+* Sign in and Create account Process
 * Search Engine
 * User-friendly product descriptions
 * Product gallery
